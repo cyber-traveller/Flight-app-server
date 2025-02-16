@@ -95,7 +95,7 @@ signToken = (user) => {
       });
 
       const mailOptions = {
-        from: "m7821843@gmail.com",
+        from: "joelvjose04@gmail.com",
         to: user.email,
         subject: "Password Reset",
         html: `
